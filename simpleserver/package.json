@@ -1,0 +1,12 @@
+{
+  "name": "simpleserver",
+  "version": "1.0.0",
+  "description": "built to learn :)",
+  "main": "simpleserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon simpleserver.js"
+  },
+  "author": "shoeb patel",
+  "license": "ISC"
+}
